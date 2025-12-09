@@ -1,6 +1,7 @@
 <p align="left">
   <img src="https://res.cloudinary.com/dutlw7bko/image/upload/v1765255977/logo-green-removebg-preview-removebg-preview_lcrnjm.png" width="140" alt="PuLend Logo" />
 </p>
+
 # PuLend Protocol  
 ### IP-Collateralized Lending on Story Protocol
 
