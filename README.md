@@ -1,4 +1,4 @@
-[![PuLend Logo](https://your-image-url/logo.png)](https://res.cloudinary.com/dutlw7bko/image/upload/v1765255977/logo-green-removebg-preview-removebg-preview_lcrnjm.png)
+![PuLend Logo](https://res.cloudinary.com/dutlw7bko/image/upload/v1765255977/logo-green-removebg-preview-removebg-preview_lcrnjm.png)
 # PuLend Protocol  
 ### IP-Collateralized Lending on Story Protocol
 
